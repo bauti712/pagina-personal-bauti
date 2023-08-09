@@ -1,0 +1,23 @@
+.footer{
+    max-width: 100%;
+    height: 100px;
+    margin:auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: #333;
+}
+.ubi{
+    height: 60px;
+    width: 60px;
+    position: absolute;
+    left: 100px;
+    
+}
+.usuario{
+    width: 50px;
+    height: 50px;
+    padding-right: 10px ;
+    position: absolute;
+    left: 1240px;
+}
